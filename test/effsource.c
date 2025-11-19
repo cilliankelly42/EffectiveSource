@@ -82,7 +82,7 @@ int main(int argc, char* argv[])
   x.r = r;
   x.theta = theta;
 
-  // inputFile = fopen("/Users/jthompson/projects/sf/effsource_fd/trajectory_data_t.dat","r");
+  // inputFile = fopen("/../notebooks/trajectory_data_t.dat","r");
   // if(inputFile == NULL){
   //   printf("No file found.");
   // }
@@ -120,7 +120,7 @@ int main(int argc, char* argv[])
   //   }
   // }
 
-  inputFile = fopen("/Users/jthompson/projects/sf/effsource_fd/trajectory_data_chi.dat","r");
+  inputFile = fopen("../notebooks/trajectory_data_chi.dat","r");
   if(inputFile == NULL){
     printf("No file found.");
   }
