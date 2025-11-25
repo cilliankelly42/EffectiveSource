@@ -1,0 +1,2 @@
+I made this folder to compare the effective source for m=1 when I do 
+or do not evolve the phi coordinate of the particle over time
